@@ -1,4 +1,4 @@
-h1 align="center">I'm Waqar Abbas Baig</h1>
+
 
 I am a CEGEP student and a hobbyist programmer since 2022.
 
